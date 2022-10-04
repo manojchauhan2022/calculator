@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/manojchauhanaz/MyDemoProject_AZ-400/_apis/build/status/manojchauhan2022.calculator?branchName=master)](https://dev.azure.com/manojchauhanaz/MyDemoProject_AZ-400/_build/latest?definitionId=4&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
